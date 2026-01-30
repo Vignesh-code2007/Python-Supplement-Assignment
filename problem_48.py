@@ -11,4 +11,4 @@ def calculator(a, b, operation):
     elif operation == "divide":
         return a / b
 
-print(f"10 / 0 = {calculator(10, 0, 'divide')}")
+print(f"10 / 0 = {calculator(10, 0, 'divide')}") 
