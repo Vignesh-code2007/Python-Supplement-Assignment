@@ -10,3 +10,4 @@ def nth_fibonacci(n):
     return b
 
 print(f"10th Fibonacci number: {nth_fibonacci(10)}")
+
