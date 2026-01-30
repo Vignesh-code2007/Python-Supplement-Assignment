@@ -3,4 +3,4 @@
 
 numbers = [45, 12, 78, 34, 89]
 sorted_numbers = numbers.sort(reverse=True)
-print(f"Sorted: {sorted_numbers}")
+print(f"Sorted: {sorted_numbers}") 
