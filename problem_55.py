@@ -11,4 +11,6 @@ def count_frequency(lst):
     return freq
 
 numbers = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
-print(f"Frequency: {count_frequency(numbers)}")
+print(f"Frequency: {count_frequency(numbers)}") 
+
+
